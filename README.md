@@ -1,3 +1,6 @@
+Since, this is a project requirement from a course in SPARTA, I only display my project like this in here to avoid a complete copy of my work.
+I include the pdf format in this repository.
+
 # SP901 Capstone Project
 
 # 5.3 Final Project
