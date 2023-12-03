@@ -9,4 +9,4 @@ Machine learning using SP901 dataset
     *  Compare the different classification methods
         (Logistic Regression, KNN, SVM, RF, XGBOOST)
     *  Show evaluation metrics (ROC-AUC, accuracy, f-1 score)
-    *  Submit the jupyter notebook
+
