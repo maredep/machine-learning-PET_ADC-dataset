@@ -1,5 +1,4 @@
-Since, this is a project requirement from a course in SPARTA, I only display my project like this in here to avoid a complete copy of my work.
-I include the pdf format in this repository.
+To comply with the project requirements for my SPARTA course, I am presenting only a markdown version of my project here to prevent any potential issues related to direct duplication of my work. The comprehensive details can be found in the attached PDF file within this repository.
 
 # SP901 Capstone Project
 
