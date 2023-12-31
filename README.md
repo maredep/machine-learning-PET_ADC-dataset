@@ -1,4 +1,4 @@
-To comply with the project requirements for my SPARTA course, I am presenting only a markdown version of my project here to prevent any potential issues related to direct duplication of my work. The comprehensive details can be found in the attached PDF file within this repository.
+Here is my capstone on SP901 Machine Learning using medical data. To avoid any potential problems related to directly copying my work and to ensure that it does not spoil  the learning experience for future students, particularly in the context of this capstone project, I will only post the Markdown version here and the comprehensive details can be found in the attached PDF file within this repository. 
 
 # SP901 Capstone Project
 
